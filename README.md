@@ -26,4 +26,4 @@ Note: Proficient programming skills in R programming is expected.
 
 ·  	Scrape different sources such as newspaper data, Wikipedia, social media, and web services
 
-·  	 After collecting the data, it will be processed, cleaned and debugged until its useable for analyses
+·  	 After collecting the data, it will be processed, cleaned, and debugged until its useable for analyses
