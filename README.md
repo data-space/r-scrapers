@@ -8,7 +8,7 @@ Web scraping is a data-extraction technique used to collect data from one or mor
  
 # Objective 
 
-The objective of this project is to learn different web scraping techniques using R software. This project will focus on scraping NFL data from the web into a csv file, and cleaning the data until it is usable for analyses. 
+The objective of this project is to learn different web scraping techniques using R software. This project will focus on scraping data from the web into a csv file, and cleaning the data until it is usable for analyses. 
 
 Note: Proficient programming skills in R programming is expected.
  
