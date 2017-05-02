@@ -9,8 +9,6 @@ Web scraping is a data-extraction technique used to collect data from one or mor
 # Objective 
 
 The objective of this project is to learn different web-scraping techniques using R software. This project will focus on scraping data from the web into a csv file, and cleaning the data until it is usable for analyses. 
-
-Note: Proficient programming skills in R software is expected.
  
 ## Topics will include:
 
@@ -27,3 +25,5 @@ Note: Proficient programming skills in R software is expected.
 ·  Scrape different sources such as newspaper data, Wikipedia, social media, and web services
 
 ·  Process, clean, and debug the data until it's useable for analyses
+
+Note: Proficient programming skills in R software is required.
